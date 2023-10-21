@@ -44,4 +44,4 @@
 </div>
 
 ---
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nikita-osipov59)
+![Profile views](https://komarev.com/ghpvc/?username=nikita-osipov59)
