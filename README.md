@@ -61,6 +61,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" style="cursor: default" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/YouTube_social_red_squircle_%282017%29.svg" title="YouTube" alt="YouTube" style="cursor: default" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/vitejs/vite/blob/main/docs/public/logo.svg" title="Vite" alt="Vite" style="cursor: default" width="40" height="40"/>&nbsp;
 </div>
 
 ---
