@@ -13,7 +13,7 @@ Frontend-разработчик!
 Я люблю изучать новые технологии на досуге и работать над своими собственными проектами в свободное время.
 
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-nikita_osipov59-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/nikita_osipov59)
+:mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-nikita_osipov59-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/nikita_osipov59)
 
 ---
 
@@ -25,16 +25,6 @@ Frontend-разработчик!
     </a>
     <a href="https://vk.com/nikita.osipov59" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-  </div>
-
----
-
-### 👀 Мой блог:
-
-  <div id="badges">
-    <a href="https://t.me/nikita_frontendit" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
   </div>
 
