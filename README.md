@@ -50,7 +50,6 @@ Frontend-разработчик!
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux-toolkit" alt="Redux-toolkit" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/favicon.ico" title="Zustand" alt="Zustand" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
 </div>
 
 ---
@@ -65,6 +64,7 @@ Frontend-разработчик!
   <img src="https://github.com/vitejs/vite/blob/main/docs/public/logo.svg" title="Vite" alt="Vite" style="cursor: default" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" style="cursor: default" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
 </div>
 
 ---
