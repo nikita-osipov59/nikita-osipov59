@@ -23,9 +23,6 @@ Frontend-разработчик!
     <a href="https://t.me/nikita_osipov59" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
-    <a href="https://vk.com/nikita.osipov59" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
   </div>
 
 ---
@@ -35,9 +32,11 @@ Frontend-разработчик!
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javaScript" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS/SCSS" alt="SASS/SCSS" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/favicon.ico" title="Zustand" alt="Zustand" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="Axios" alt="Axios" width="40" height="40"/>&nbsp;
 </div>
 
@@ -48,8 +47,7 @@ Frontend-разработчик!
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next" alt="Next" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux-toolkit" alt="Redux-toolkit" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/favicon.ico" title="Zustand" alt="Zustand" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp
+  <img src="https://avatars.githubusercontent.com/u/72518640?s=48&v=4" title="TanStackQuery" alt="TanStackQuery" width="40" height="40"/>&nbsp
 </div>
 
 ---
@@ -58,6 +56,7 @@ Frontend-разработчик!
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp
+  <img src="https://images.ctfassets.net/xz1dnu24egyd/3FbNmZRES38q2Sk2EcoT7a/a290dc207a67cf779fc7c2456b177e9f/press-kit-icon.svg" title="GitLAb" alt="GitLab" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" style="cursor: default" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/YouTube_social_red_squircle_%282017%29.svg" title="YouTube" alt="YouTube" style="cursor: default" width="40" height="40"/>&nbsp;
