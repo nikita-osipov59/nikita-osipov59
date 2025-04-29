@@ -64,6 +64,7 @@ Frontend-разработчик!
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" style="cursor: default" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
+  <img src="https://yastatic.net/naydex/yandex-search/KeS12o296/f767d8KzDsYb/mSCWYogAjSSca7EiD_8gfpmLDeiVcawmof6FranlHGpIxXjsu_JWFrsRyrfYrJdjCHA7N6sIwNB3fvJDRn2EiHpylWBOE3_32hjAov9fMav9in3_lv" title="Obsidian" alt="Obsidian" width="40" height="40"/>&nbsp
 </div>
 
 ---
